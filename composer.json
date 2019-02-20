@@ -1,0 +1,12 @@
+{
+  "name": "skyrol/wrk-sync-db-media",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/skyrol/wrk-sync-db-media",
+  "license": "GPL-2.0",
+  "description": "wrk Sync DB Media Addon for WP Sync DB",
+  "keywords": ["plugin","wordpress","wp-sync-db","media"],
+  "require": {
+    "php": ">=7.0",
+    "composer/installers": "~1.5"
+  }
+}
